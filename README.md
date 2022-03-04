@@ -1,4 +1,7 @@
 ### Hi there 👋
+-  🌱 I’m currently learning Terraform
+
+My Blog: https://blog.jonasdahlgren.se
 
 <!--
 **jondah/jondah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
