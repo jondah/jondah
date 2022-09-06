@@ -1,5 +1,6 @@
 ### Hi there 👋
--  🌱 I’m currently learning Terraform
+-  🌱 I’m currently learning Terraform and Infrastructure as code. 
+-  🔭 I’m a certified Azure Solutions Architect Expert.
 
 My Blog: https://blog.jonasdahlgren.se
 
